@@ -6,20 +6,4 @@
 - :tada: Currently on my list: Unsupervised and Supervised Machine Learning.  
 - 💬 Please feel free to reach out to me! As a senior communications consultant and data science major, I am looking for new connections in data analytics, data science and IT.
 
-## Check out some of my projects: 
-
-<a href="https://github.com/Kathrin-92/Web-Scraping_Weather-Insights">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Web-Scraping_Weather-Insights" />
-</a>
-
-<a href="https://github.com/Kathrin-92/Geospacial_InteractiveDashboard">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Geospacial_InteractiveDashboard" />
-</a>
-
-<a href="https://github.com/Kathrin-92/Project_Habit_Tracker">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Project_Habit_Tracker" />
-</a>
-
-<a href="https://github.com/Kathrin-92/Exploring-Supervised-Learning">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Exploring-Supervised-Learning" />
-</a>
+## Check out some of my projects! 
