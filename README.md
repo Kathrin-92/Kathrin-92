@@ -23,3 +23,7 @@
 <a href="https://github.com/Kathrin-92/Web-Scraping_Weather-Insights">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Web-Scraping_Weather-Insights" />
 </a>
+
+<a href="https://github.com/Kathrin-92/Exploring-Supervised-Learning">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Exploring-Supervised-Learning" />
+</a>
