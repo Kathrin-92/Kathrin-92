@@ -21,5 +21,5 @@
 </a>
 
 <a href="https://github.com/Kathrin-92/DLBDSDQDW01_ScrapeTheWeb">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=DLBDSDQDW01_ScrapeTheWeb" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Web-Scraping_Weather-Insights" />
 </a>
