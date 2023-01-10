@@ -12,14 +12,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Analysing_Netflix_Data" />
 </a>
 
-<a href="https://github.com/kathrin-92/OOFPP01_Project_Habit_Tracker">
+<a href="https://github.com/kathrin-92/Project_Habit_Tracker">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Project_Habit_Tracker" />
 </a>
 
-<a href="https://github.com/Kathrin-92/DLBDSEDAV01_Geospacial_InteractiveDashboard">
+<a href="https://github.com/Kathrin-92/Geospacial_InteractiveDashboard">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Geospacial_InteractiveDashboard" />
 </a>
 
-<a href="https://github.com/Kathrin-92/DLBDSDQDW01_ScrapeTheWeb">
+<a href="https://github.com/Kathrin-92/Web-Scraping_Weather-Insights">
   <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=kathrin-92&repo=Web-Scraping_Weather-Insights" />
 </a>
