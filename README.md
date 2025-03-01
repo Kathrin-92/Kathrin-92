@@ -1,9 +1,9 @@
 ## Hi there!
 
-- :briefcase: I used to be a Senior PR manager working in a content-marketing-agency in Hamburg. 
-- :mortar_board: Until I decided that I would like to try something new: since 2021 I'm studying Data Science at iubh university! 
-- :rocket: I've completed three years of study to learn all the necessary stuff - from statistics and maths, to Database Modeling, SQL and Python, Data Analysis, Unsupervised and Supervised Machine Learning, and Visualization & Business Intelligence.
-- :tada: Currently on my list: A focus on Analytics Engineering & Data Engineering.  
-- 💬 Please feel free to reach out to me! As a senior communications consultant and data science major, I am looking for new connections in data and IT.
+💼 I work as a Data Analytics Engineer focusing on SQL, dbt, and Google Cloud (BigQuery).
+🎓 Before transitioning into data, I worked in communication, giving me both strong technical and communication expertise. I hold a BA in "Medienwissenschaft", a MA in "New Media and Society" and am currently pursuing a BSc in "Data Science".
+🚀 I've been working in data for around 2.5 years, gaining experience in database modeling, SQL, Python, data analysis, machine learning, and business intelligence.
+🎯 Currently, I’m working on real-time data analytics projects and preparing to write my bachelor thesis.
+💬 Always happy to connect! With my background in both communication and data, I’m looking to exchange ideas and network in the data and IT space.
 
 ## Check out some of my projects! 
